@@ -4,7 +4,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui para acessar](https://luizhenr1que.github.io/nlw/)
+[🔗Clique aqui para acessar](https://luizhenr1que.github.io/nlwEsportsExplorer/)
 
 ## 🛠 Tecnologias
 - HTML
